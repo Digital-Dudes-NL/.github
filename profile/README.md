@@ -27,7 +27,7 @@ WordPress, Bricks Builder, Shopify, Google Ads, Plausible Analytics.
 
 ## Find us
 
-- **Website:** [digitaldudes.nl](https://digitaldudes.nl)
+- **Website:** [digitaldudes.nl](https://digitaldudes.nl/)
 - **Address:** Stationsplein 8, 8011 CW Zwolle
 - **LinkedIn:** [linkedin.com/company/digitaldudesnl](https://www.linkedin.com/company/digitaldudesnl)
 
